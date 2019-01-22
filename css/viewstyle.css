@@ -1,0 +1,10 @@
+#library
+{
+	border-style:solid;
+	border-color:blue;
+	width:500px;
+}
+#library tr
+{
+	background-color:pink;
+}
